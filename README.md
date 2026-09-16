@@ -1,15 +1,9 @@
-<table border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td width="50%" align="left" valign="top">
+
 # SpotLight On
 
+<img src="favicon.svg" alt="SpotLight On" width="40" height="40px" />
+
 **Share the code, share the love.**
-    </td>
-    <td width="50%" align="right" valign="top">
-        <img src="favicon.svg" alt="SpotLight On" width="40" height="40px" />
-    </td>
-  </tr>
-</table>
 
 Hi, I'm software developer working on browser-based tools and 3D experiments.
 
@@ -23,3 +17,4 @@ Hi, I'm software developer working on browser-based tools and 3D experiments.
 - 💻 Passionate about languages, frameworks, and tooling
 - 🌱 Always learning something new
 - 📖 Enjoy contributing to open-source and sharing knowledge with the community
+- 💜 Favorite quote - The Zen of Python (PEP 20)
