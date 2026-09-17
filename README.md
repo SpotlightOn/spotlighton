@@ -10,6 +10,7 @@ Hi, I'm software developer working on browser-based tools and 3D experiments.
 ## Projects
 
 - [SVG forge](https://svgforge.github.io) — Browser-based SVG tools and experiments.
+- [Todo Snake](https://github.com/SpotlightOn/todo-snake) My Todo Manager (Python + Pyside6).
 - [Meshviewer](https://github.com/spotlighton/meshviewer) — Coming soon! Interactive Electron app: a 3D mesh viewer for glTF.
 
 ## About me
