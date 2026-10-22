@@ -9,8 +9,10 @@ Hi, I'm software developer working on browser-based tools and 3D experiments.
 
 ## Projects
 
-- [jpegtran-js](https://github.com/SpotlightOn/jpegtran-js) — Unofficial jpegtran wasm version, api + cli. Transform JPEG lossless with Javascript.
+- [jpegtran-js](https://github.com/SpotlightOn/jpegtran-js) — Unofficial jpegtran wasm version, api + cli. Transform JPEG lossless with Javascript/Typescript.
+- [jxltran-js](https://github.com/SpotlightOn/jxltran-js) — Unofficial jxltran wasm version, api + cli. Transform JPEG XL lossless with Javascript/Typescript.
 - [Meshviewer](https://github.com/spotlighton/meshviewer) — An Electron app for viewing 3D meshes in glTF format, 360° panorama and most common vector & pixmap.
+- [Moonstation](https://github.com/SpotlightOn/moonstation) — This app is my hobby fun project. I haven't done C for such a long time, of course I needed help with AI. I have big plans with this app.
 - [Todo Snake](https://github.com/SpotlightOn/todo-snake) — A desktop todo manager built with Python and PySide6.
 - [SVG Forge](https://svgforge.github.io) — SVG related tools and experiemnts
   - [svgforge](https://github.com/svgforge/svgforge) and [svgforge-cli](https://github.com/svgforge/svgforge-cli) — Create nice icon sets with your favorite svgs. Read on [CSS Tricks](https://css-tricks.de/svg-symbol-good-choice-icons/) how it works.
