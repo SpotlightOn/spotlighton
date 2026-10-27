@@ -14,6 +14,7 @@ Hi, I'm software developer working on browser-based tools and 3D experiments.
 - [lossless-rotate](https://github.com/SpotlightOn/lossless-rotate) — I started this, because i want a _pure_ JavaScript version for jpegtran. It does also rotate AVIF.
 - [Meshviewer](https://github.com/spotlighton/meshviewer) — An Electron app for viewing 3D meshes in glTF format, 360° panorama and most common vector & pixmap.
 - [Moonstation](https://github.com/SpotlightOn/moonstation) — This app is my hobby fun project. I haven't done C for such a long time, of course I needed help with AI. I have big plans with this app.
+- [Heino Reader](https://github.com/SpotlightOn/heino-reader) — I use Markdown more than any other format, especially with AI in the mix. I wanted a fast, simple viewer that didn’t require opening VS Code.
 - [Todo Snake](https://github.com/SpotlightOn/todo-snake) — A desktop todo manager built with Python and PySide6.
 - [SVG Forge](https://svgforge.github.io) — SVG related tools and experiemnts
   - [svgforge](https://github.com/svgforge/svgforge) and [svgforge-cli](https://github.com/svgforge/svgforge-cli) — Create nice icon sets with your favorite svgs. Read on [CSS Tricks](https://css-tricks.de/svg-symbol-good-choice-icons/) how it works.
