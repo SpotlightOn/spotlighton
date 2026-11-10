@@ -14,14 +14,19 @@ Hi, I'm software developer working on browser-based tools and 3D experiments.
 - [lossless-rotate](https://github.com/SpotlightOn/lossless-rotate) — I started this, because i want a _pure_ JavaScript version for jpegtran. It does also rotate AVIF.
 - [Meshviewer](https://github.com/spotlighton/meshviewer) — An Electron app for viewing 3D meshes in glTF format, 360° panorama and most common vector & pixmap.
 - [Moonstation](https://github.com/SpotlightOn/moonstation) — This app is my hobby fun project. I haven't done C for such a long time, of course I needed help with AI. I have big plans with this app.
+- [Xiaozhi Talk](https://github.com/SpotlightOn/xiaozhi-talk) — Xiaozhi Talk, AI chat Desktop client with a nice PySide6 UI.
 - [Heino Reader](https://github.com/SpotlightOn/heino-reader) — I use Markdown more than any other format, especially with AI in the mix. I wanted a fast, simple viewer that didn’t require opening VS Code.
 - [Todo Snake](https://github.com/SpotlightOn/todo-snake) — A desktop todo manager built with Python and PySide6.
 - [SVG Forge](https://svgforge.github.io) — SVG related tools and experiemnts
   - [svgforge](https://github.com/svgforge/svgforge) and [svgforge-cli](https://github.com/svgforge/svgforge-cli) — Create nice icon sets with your favorite svgs. Read on [CSS Tricks](https://css-tricks.de/svg-symbol-good-choice-icons/) how it works.
   - [Sprite Viewer](https://github.com/svgforge/spriteviewer) — A Python GUI for viewing icons in SVG files.
   - [SF Icon Manager](https://github.com/svgforge/sf-icon-manager) — A WordPress plugin for using SVG fragments with the Gutenberg block editor or classic themes.
-  - [SVG Morph with SVG Fragments](https://svgforge.github.io/sprite-animate/) — A GSAP-powered web component generated with `svgforge-cli`.
+
   - [Random Icon Generator](https://atelier-64.whar.workers.dev) — Generate a favicon or logo with this Cloudflare Workers-powered app [atelier-64](https://github.com/svgforge/atelier-64).
+
+
+## Demos & Tests
+- [SVG Morph with SVG Fragments](https://svgforge.github.io/sprite-animate/) — A GSAP-powered web component generated with `svgforge-cli`.
 - [Color Scheme Generator for Websites](https://spotlighton.github.io/harmony-website-colors/) — Really usefull tool to find a perfect color scheme and export it.
 
 ## About me
